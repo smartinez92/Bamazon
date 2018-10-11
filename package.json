@@ -1,0 +1,26 @@
+{
+    "name": "bamazon",
+    "version": "1.0.0",
+    "description": "Command line based marketplace",
+    "main": "bamazonCustomer.js",
+    "dependencies": {
+    "console.table": "^0.8.0",
+    "inquirer": "^2.0.0",
+    "mysql": "^2.12.0",
+    "node-validator": "^0.1.26",
+    "prompt": "^1.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartinez92/Bamazon.git"
+    },
+    "author": "Steven Martinez",
+    "bugs": {
+    "url": "https://github.com/smartinez92/Bamazon/issues"
+    },
+    "homepage": "https://github.com/smartinez92/Bamazon#readme"
+    }
